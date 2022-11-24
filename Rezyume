@@ -1,0 +1,26 @@
+ <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>PORTFOLIO</title>
+    </head>
+    <body>
+        <h1> DONIYOR KOCHKOROV ISANALIYEVICH </h1>
+        <img  width="250"  height="150" src="https://thumbs.dreamstime.com/b/man-perfect-brilliant-smile-unshaven-face-defocused-background-guy-happy-emotional-expression-outdoors-bearded-man-124640934.jpg">
+        <h2>       PERSONAL DETAILS :</h2>
+        <h1> 1. Date of birth: 03.04.2000 </h1>
+        <h1> 2. Nationality: UZBEK</h1>
+        <h1> 3. Place of birth: Uzbekistan,Tashkent region,Bekabad city,Namangan street, 13</h1>     
+        <h1> 4. Married: single</h1>
+        <h1> 5. Phone number: +998901321104</h1>
+        <h1> 6. E-mail: doniyorbek387@gamil.com</h1> 
+        <h1> 7. Society : <a href="https://telegram.org">t.me  @Doni1yor </a></h1>
+  
+          <H2>     EDUCATION :</H2>
+        <h1> 1. High school graduate (2016)</h1>
+        <h1> 2. TASHKENT TAX COLLEGE graduate (2016-2020)</h1>
+
+    </body>
+    </html>
